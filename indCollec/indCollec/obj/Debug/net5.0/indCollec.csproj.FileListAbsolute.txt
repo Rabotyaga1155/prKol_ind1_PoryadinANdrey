@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.exe
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.deps.json
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.runtimeconfig.json
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.dll
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\ref\indCollec.dll
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\bin\Debug\net5.0\indCollec.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.dll
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\ref\indCollec.dll
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.pdb
+C:\Users\305-10\Desktop\Порядин\newraba\indCollec\indCollec\obj\Debug\net5.0\indCollec.genruntimeconfig.cache
